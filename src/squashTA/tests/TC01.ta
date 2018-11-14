@@ -1,0 +1,3 @@
+TEST :
+
+# EXECUTE_SELENIUM2 selenium WITH MAIN CLASS squashTA.resources.selenium.java.src.test.jUnit.P01Test
